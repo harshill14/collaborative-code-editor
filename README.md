@@ -8,7 +8,6 @@ A real-time collaborative code editor built with a C++ backend server using WebS
 - Conflict resolution using Operational Transformation (OT)
 - Asynchronous networking with Boost.Asio
 - WebSocket communication between client and server
-- Modern C++ features and advanced programming techniques
 
 ## Project Structure
 ```plaintext
